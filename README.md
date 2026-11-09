@@ -3,6 +3,8 @@
   <img alt="Rhudhresh R. AI agents and engineering tools that show their work. ABB Accelerator Hackathon 2026 3rd place of 14,000+ registrations, SEMICON India 2026 grand finalist (top 10 of 3,808 teams), 19 national competitions in 2026." src="assets/header-light.svg" width="100%">
 </picture>
 
+<p align="center"><a href="https://rhudhresh.github.io"><b>rhudhresh.github.io ↗</b></a> · <a href="https://rhudhresh.github.io/kasam/">Try KASAM live ↗</a></p>
+
 I build **AI agents that take real actions** (approving access, routing money, isolating faults) and wrap them in rules a model can't override and evidence a judge can rerun. My electrical engineering side keeps the models tied to physics: batteries, motors, wafers, power feeders.
 
 ### Selected work
