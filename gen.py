@@ -24,9 +24,9 @@ MOTION_OFF = "@media (prefers-reduced-motion: reduce){*{animation:none!important
 
 def header(t):
     W, H = 1200, 340
-    pins = [("P1", "ABB Accelerator Hackathon 2026", "3rd", "of 1,600+ teams · ₹1,00,000"),
-            ("P2", "SEMICON India 2026 finale", "Top 5", "Applied Materials · New Delhi"),
-            ("P3", "Competition builds in 2026", "19", "SIH · KONE · Mitsubishi · Freshworks")]
+    pins = [("P1", "ABB Accelerator Hackathon 2026", "3rd", "of 14,000+ registrations · ₹1,00,000"),
+            ("P2", "SEMICON India Hackathon 2026", "Top 10", "grand finalist of 3,808 teams"),
+            ("P3", "National competitions in 2026", "19", "SIH · KONE · Mitsubishi · Freshworks")]
     rows = []
     for i, (n, k, v, sub) in enumerate(pins):
         y = 92 + i * 66
@@ -79,7 +79,7 @@ CARDS = [
     ("contextrail", "ContextRail", "Freshworks Great Agent Hackathon", False,
      "One spoken sentence becomes a Freshservice ticket, a policy-checked plan, a Slack approval and an audit record.",
      "Sarvam voice EN · HI · TA  ·  live tickets #123–#128"),
-    ("LatticeRank", "LatticeRank", "SEMICON India 2026 · Top 5", True,
+    ("LatticeRank", "LatticeRank", "SEMICON India · Top 10 of 3,808", True,
      "Finds a 1 nm/px wafer reference inside a 10 nm/px SEM search image, on CPU only, for Applied Materials' Drift-Sense.",
      "Grand finale · Yashobhoomi, New Delhi"),
     ("FlowLens", "FlowLens", "KONE Elevate'26 · PS13", False,

@@ -2,8 +2,8 @@
 <rect x="0.5" y="0.5" width="579" height="189" fill="#0D1117" stroke="#E0915A"/>
 <rect x="1" y="1" width="4" height="188" fill="#E0915A"/>
 <text x="28" y="46" font-family="'Segoe UI Black', 'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="24" fill="#E7EBE8">LatticeRank</text>
-<rect x="359.4" y="27" width="198.6" height="24" fill="#173328" stroke="#173328"/>
-<text x="458.7" y="43" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#6FC59E">SEMICON India 2026 · Top 5</text>
+<rect x="323.9" y="27" width="234.1" height="24" fill="#173328" stroke="#173328"/>
+<text x="440.95" y="43" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#6FC59E">SEMICON India · Top 10 of 3,808</text>
 <text x="28" y="86" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#E7EBE8">Finds a 1 nm/px wafer reference inside a 10 nm/px SEM search image,</text><text x="28" y="107" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#E7EBE8">on CPU only, for Applied Materials' Drift-Sense.</text>
 <rect x="22" y="148" width="536" height="26" fill="#2E2016"/>
 <text x="32" y="165" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#E7EBE8">Grand finale · Yashobhoomi, New Delhi</text>

@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Rhudhresh R. AI agents and engineering tools that show their work. ABB Accelerator Hackathon 2026 3rd place, SEMICON India 2026 Top 5, 19 competition builds in 2026." src="assets/header-light.svg" width="100%">
+  <img alt="Rhudhresh R. AI agents and engineering tools that show their work. ABB Accelerator Hackathon 2026 3rd place of 14,000+ registrations, SEMICON India 2026 grand finalist (top 10 of 3,808 teams), 19 national competitions in 2026." src="assets/header-light.svg" width="100%">
 </picture>
 
 I build **AI agents that take real actions** (approving access, routing money, isolating faults) and wrap them in rules a model can't override and evidence a judge can rerun. My electrical engineering side keeps the models tied to physics: batteries, motors, wafers, power feeders.
@@ -16,19 +16,19 @@ I build **AI agents that take real actions** (approving access, routing money, i
 
 ### Competition record · 2026
 
-| Result | Event | Build |
+| Event | Highlight | Build |
 |---|---|---|
-| **3rd of 1,600+ teams · ₹1,00,000** | ABB Accelerator Student Hackathon | Grand finale at ABB Innovation Center, Bengaluru |
-| **Grand finalist · Top 5** | SEMICON India Hackathon · Applied Materials | [LatticeRank](https://github.com/RHUDHRESH/LatticeRank) |
-| Team 160289 | Smart India Hackathon · SIH26217, SIH26172 | [HELIOROUTE](https://github.com/RHUDHRESH/sih-helioroute-validation) · [Edge Voice](https://github.com/RHUDHRESH/sih-voice-validation) |
-| Entry | Freshworks Great Agent Hackathon | [ContextRail](https://github.com/RHUDHRESH/contextrail) |
-| Entry | KONE Elevate'26 · PS13 | [FlowLens](https://github.com/RHUDHRESH/FlowLens) |
-| Entry | ASME Brain Bolt · Siemens Energy | [SafeFit-R](https://github.com/RHUDHRESH/asme-brainbolt-safefit-r) |
-| Entry | Arduino Physical AI Challenge | [PlantLens](https://github.com/RHUDHRESH/Plantlens) |
-| Entry | iQOO Hackathon · Open Innovation | [KASAM](https://github.com/RHUDHRESH/kasam) |
-| Entry | GraphHacks | [Baton](https://github.com/RHUDHRESH/baton-change-verification) |
+| **ABB Accelerator Student Hackathon** | 🥉 **3rd place** of 14,000+ registrations, 1,600+ teams · ₹1,00,000 · finale at ABB Innovation Center, Bengaluru | Industrial sustainability solution |
+| **SEMICON India Hackathon** | 🏆 **National grand finalist**, 1 of 10 teams from 3,808 · Applied Materials track · Yashobhoomi, New Delhi | [LatticeRank](https://github.com/RHUDHRESH/LatticeRank) |
+| Smart India Hackathon | Two problem statements, one team: renewable routing and edge voice capture | [HELIOROUTE](https://github.com/RHUDHRESH/sih-helioroute-validation) · [Edge Voice](https://github.com/RHUDHRESH/sih-voice-validation) |
+| Freshworks Great Agent Hackathon | Live Freshservice tickets, Slack approvals, Sarvam voice in 3 languages | [ContextRail](https://github.com/RHUDHRESH/contextrail) |
+| KONE Elevate'26 | Evidence-first elevator root-cause engine | [FlowLens](https://github.com/RHUDHRESH/FlowLens) |
+| Arduino Physical AI Challenge | Running on Arduino UNO Q hardware, fully offline | [PlantLens](https://github.com/RHUDHRESH/Plantlens) |
+| ASME Brain Bolt × Siemens Energy | 200 battery packs to 50 EVs with zero unsafe dispatches | [SafeFit-R](https://github.com/RHUDHRESH/asme-brainbolt-safefit-r) |
+| iQOO Hackathon | Live tamper-evident video demo | [KASAM](https://github.com/RHUDHRESH/kasam) |
+| GraphHacks | Graph-grounded agent that blocks bad releases | [Baton](https://github.com/RHUDHRESH/baton-change-verification) |
 
-<sub>Also in 2026: Mitsubishi Electric AutomationX, atomQUEST, Schneider Yuva Yodha, Amazon ML Challenge, Tata Teliport S4, Namma AI (team leader), Hack Apertus, Redrob India Runs, Seva First, RISE.</sub>
+<sub>Also built for in 2026: Mitsubishi Electric AutomationX · atomQUEST · Schneider Electric Yuva Yodha · Amazon ML Challenge · Tata Teliport S4 · Namma AI (team leader) · Hack Apertus · Redrob India Runs · Seva First · RISE</sub>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
