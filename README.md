@@ -3,7 +3,9 @@ Final-year EEE · Saveetha Engineering College, Chennai
 
 I build **AI agents that take real actions** (approving access, moving money, isolating faults) and wrap them in rules a model can't override and evidence a judge can rerun. My electrical engineering side keeps the models tied to physics.
 
-**🏆 SEMICON India 2026 · Top 5 grand finalist** (Applied Materials Drift-Sense) · 10 competition builds in 2026
+- **🥉 ABB Accelerator Student Hackathon 2026 · 3rd place** of 1,600+ teams (₹1,00,000, finale at ABB Innovation Center, Bengaluru)
+- **🏆 SEMICON India 2026 · Top 5 grand finalist** (Applied Materials Drift-Sense, New Delhi)
+- 19 competition builds in 2026, including Smart India Hackathon, Mitsubishi Electric AutomationX, KONE Elevate, Freshworks, atomQUEST, Amazon ML Challenge, Tata Teliport and Arduino Physical AI.
 
 #### Agents that act under rules
 | | |
