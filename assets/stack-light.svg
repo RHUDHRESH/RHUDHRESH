@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 292" width="1200" height="292" role="img" aria-label="Tech stack">
+<rect x="0.5" y="0.5" width="1199" height="291" fill="#FFFFFF" stroke="#D5D9D6"/>
+<rect x="1" y="1" width="1198" height="34" fill="#F5F6F3"/>
+<text x="28" y="23" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing=".06em" fill="#5A6266">ELECTRICAL CHARACTERISTICS  ·  STACK BY LAYER</text>
+<line x1="0" y1="35" x2="1200" y2="35" stroke="#D5D9D6"/>
+<text x="28" y="61" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing=".05em" fill="#A9561F">LANGUAGES</text>
+<text x="250" y="61" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#15191B">Python · TypeScript · Rust · C++ · Verilog</text>
+<line x1="0" y1="75" x2="1200" y2="75" stroke="#D5D9D6"/>
+<text x="28" y="101" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing=".05em" fill="#A9561F">AGENTS &amp; AI</text>
+<text x="250" y="101" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#15191B">Claude · Groq · Sarvam · LangGraph · Ollama</text>
+<line x1="0" y1="115" x2="1200" y2="115" stroke="#D5D9D6"/>
+<text x="28" y="141" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing=".05em" fill="#A9561F">BACKEND</text>
+<text x="250" y="141" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#15191B">FastAPI · Django Ninja · Axum · MCP</text>
+<line x1="0" y1="155" x2="1200" y2="155" stroke="#D5D9D6"/>
+<text x="28" y="181" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing=".05em" fill="#A9561F">FRONTEND</text>
+<text x="250" y="181" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#15191B">React 19 · Next.js · Vite · WASM</text>
+<line x1="0" y1="195" x2="1200" y2="195" stroke="#D5D9D6"/>
+<text x="28" y="221" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing=".05em" fill="#A9561F">DATA &amp; INFRA</text>
+<text x="250" y="221" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#15191B">Postgres/pgvector · Qdrant · FalkorDB · Docker · AWS · Vercel</text>
+<line x1="0" y1="235" x2="1200" y2="235" stroke="#D5D9D6"/>
+<text x="28" y="261" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" letter-spacing=".05em" fill="#A9561F">HARDWARE</text>
+<text x="250" y="261" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#15191B">Arduino UNO Q · RS485 · KiCad · ngspice · Altium</text>
+</svg>

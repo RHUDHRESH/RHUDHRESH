@@ -1,0 +1,34 @@
+name: snake
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # daily, 06:00 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#A9561F&color_dots=#EEF0EC,#EBD3C0,#D9A27A,#BC6B35,#7E3A12
+            dist/snake-dark.svg?color_snake=#E0915A&color_dots=#161B22,#3A2618,#7A4524,#B76632,#E0915A
+
+      - name: Publish to the output branch
+        run: |
+          mkdir out && cp dist/*.svg out/
+          cd out
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "snake $(date -u +%F)"
+          git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output

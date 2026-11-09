@@ -1,28 +1,43 @@
-### Rhudhresh R
-Final-year EEE · Saveetha Engineering College, Chennai
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Rhudhresh R. AI agents and engineering tools that show their work. ABB Accelerator Hackathon 2026 3rd place, SEMICON India 2026 Top 5, 19 competition builds in 2026." src="assets/header-light.svg" width="100%">
+</picture>
 
-I build **AI agents that take real actions** (approving access, moving money, isolating faults) and wrap them in rules a model can't override and evidence a judge can rerun. My electrical engineering side keeps the models tied to physics.
+I build **AI agents that take real actions** (approving access, routing money, isolating faults) and wrap them in rules a model can't override and evidence a judge can rerun. My electrical engineering side keeps the models tied to physics: batteries, motors, wafers, power feeders.
 
-- **🥉 ABB Accelerator Student Hackathon 2026 · 3rd place** of 1,600+ teams (₹1,00,000, finale at ABB Innovation Center, Bengaluru)
-- **🏆 SEMICON India 2026 · Top 5 grand finalist** (Applied Materials Drift-Sense, New Delhi)
-- 19 competition builds in 2026, including Smart India Hackathon, Mitsubishi Electric AutomationX, KONE Elevate, Freshworks, atomQUEST, Amazon ML Challenge, Tata Teliport and Arduino Physical AI.
+### Selected work
 
-#### Agents that act under rules
-| | |
-|---|---|
-| [**ContextRail**](https://github.com/RHUDHRESH/contextrail) | One spoken sentence → Freshservice ticket → policy-checked plan → Slack approval → audit trail. Sarvam voice in EN/HI/TA. *Freshworks Great Agent Hackathon* |
-| [**FlowLens**](https://github.com/RHUDHRESH/FlowLens) | Elevator fault isolation that ranks root causes with support and contradictions, and abstains when evidence is thin. *KONE Elevate'26* |
-| [**Baton**](https://github.com/RHUDHRESH/baton-change-verification) | Graph-grounded agent that turns company goals into evidence-gated actions. Groq + FalkorDB |
+<a href="https://github.com/RHUDHRESH/contextrail"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-contextrail-dark.svg"><img alt="ContextRail" src="assets/card-contextrail-light.svg" width="49%"></picture></a>
+<a href="https://github.com/RHUDHRESH/LatticeRank"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-latticerank-dark.svg"><img alt="LatticeRank" src="assets/card-latticerank-light.svg" width="49%"></picture></a>
+<a href="https://github.com/RHUDHRESH/FlowLens"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-flowlens-dark.svg"><img alt="FlowLens" src="assets/card-flowlens-light.svg" width="49%"></picture></a>
+<a href="https://github.com/RHUDHRESH/Plantlens"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-plantlens-dark.svg"><img alt="PlantLens" src="assets/card-plantlens-light.svg" width="49%"></picture></a>
+<a href="https://rhudhresh.github.io/kasam/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kasam-dark.svg"><img alt="KASAM" src="assets/card-kasam-light.svg" width="49%"></picture></a>
+<a href="https://github.com/RHUDHRESH/range-2.0"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-range-2.0-dark.svg"><img alt="Range 2.0" src="assets/card-range-2.0-light.svg" width="49%"></picture></a>
 
-#### Physics & hardware intelligence
-| | |
-|---|---|
-| [**LatticeRank**](https://github.com/RHUDHRESH/LatticeRank) | Cross-scale wafer-pattern localization on CPU. *SEMICON India 2026, Top 5* |
-| [**PlantLens**](https://github.com/RHUDHRESH/Plantlens) | Read-only RS485 retrofit on Arduino UNO Q, with physics fingerprints and causal-graph diagnosis |
-| [**Range 2.0**](https://github.com/RHUDHRESH/range-2.0) | Physics-first EV range for Indian cars and two-wheelers, with conformal intervals |
-| [**SafeFit-R**](https://github.com/RHUDHRESH/asme-brainbolt-safefit-r) | Safe battery-pack allocation for EV swapping. *ASME Brain Bolt × Siemens Energy* |
+### Competition record · 2026
 
-#### Products
-[**KASAM**](https://rhudhresh.github.io/kasam/): the video that swears it's real (live demo) · [**Inkloom**](https://inkloom.art): AI models for logo design
+| Result | Event | Build |
+|---|---|---|
+| **3rd of 1,600+ teams · ₹1,00,000** | ABB Accelerator Student Hackathon | Grand finale at ABB Innovation Center, Bengaluru |
+| **Grand finalist · Top 5** | SEMICON India Hackathon · Applied Materials | [LatticeRank](https://github.com/RHUDHRESH/LatticeRank) |
+| Team 160289 | Smart India Hackathon · SIH26217, SIH26172 | [HELIOROUTE](https://github.com/RHUDHRESH/sih-helioroute-validation) · [Edge Voice](https://github.com/RHUDHRESH/sih-voice-validation) |
+| Entry | Freshworks Great Agent Hackathon | [ContextRail](https://github.com/RHUDHRESH/contextrail) |
+| Entry | KONE Elevate'26 · PS13 | [FlowLens](https://github.com/RHUDHRESH/FlowLens) |
+| Entry | ASME Brain Bolt · Siemens Energy | [SafeFit-R](https://github.com/RHUDHRESH/asme-brainbolt-safefit-r) |
+| Entry | Arduino Physical AI Challenge | [PlantLens](https://github.com/RHUDHRESH/Plantlens) |
+| Entry | iQOO Hackathon · Open Innovation | [KASAM](https://github.com/RHUDHRESH/kasam) |
+| Entry | GraphHacks | [Baton](https://github.com/RHUDHRESH/baton-change-verification) |
 
-**Stack:** Python · TypeScript · Rust · React/Next.js · FastAPI · Axum · Postgres/pgvector · Claude · Sarvam · Docker · AWS · Arduino · KiCad
+<sub>Also in 2026: Mitsubishi Electric AutomationX, atomQUEST, Schneider Yuva Yodha, Amazon ML Challenge, Tata Teliport S4, Namma AI (team leader), Hack Apertus, Redrob India Runs, Seva First, RISE.</sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Stack: Python, TypeScript, Rust, C++, Verilog; Claude, Groq, Sarvam, LangGraph, Ollama; FastAPI, Django Ninja, Axum, MCP; React 19, Next.js, Vite, WASM; Postgres/pgvector, Qdrant, FalkorDB, Docker, AWS, Vercel; Arduino UNO Q, RS485, KiCad, ngspice, Altium" src="assets/stack-light.svg" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RHUDHRESH/RHUDHRESH/output/snake-dark.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/RHUDHRESH/RHUDHRESH/output/snake-light.svg" width="100%">
+</picture>
+
+<sub>Header, cards and stack are hand-made SVGs generated by <code>gen.py</code> in this repo. The snake redraws daily from my contribution graph.</sub>

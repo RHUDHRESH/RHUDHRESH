@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Rhudhresh R — builder datasheet">
+<style>
+  .mono{font-family:ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;letter-spacing:.06em}
+  .trace{stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 2.4s ease-out .2s forwards}
+  .pin{opacity:0;animation:fade .6s ease-out forwards}
+  .dot{animation:blink 2.2s ease-in-out infinite}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+  @keyframes blink{0%,100%{opacity:1}50%{opacity:.35}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  @media (prefers-reduced-motion: reduce){.trace{stroke-dashoffset:0}.pin{opacity:1}}
+</style>
+<rect x="0.5" y="0.5" width="1199" height="339" fill="#FFFFFF" stroke="#D5D9D6"/>
+<rect x="1" y="1" width="1198" height="34" fill="#F5F6F3"/>
+<line x1="0" y1="35" x2="1200" y2="35" stroke="#D5D9D6"/>
+<text x="28" y="23" class="mono" font-size="12" fill="#5A6266"><tspan fill="#15191B" font-weight="700">RR-26</tspan>  ·  BUILDER DATASHEET</text>
+<text x="1172" y="23" text-anchor="end" class="mono" font-size="12" fill="#5A6266">REV 2026-11  ·  CHENNAI, IN  ·  github.com/RHUDHRESH</text>
+
+<text x="28" y="78" class="mono" font-size="12" fill="#5A6266">FINAL-YEAR EEE · SAVEETHA ENGINEERING COLLEGE</text>
+<text x="24" y="170" font-family="'Segoe UI Black', 'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="88" letter-spacing="-1.5" fill="#15191B">Rhudhresh R<tspan fill="#A9561F" class="dot">.</tspan></text>
+<text x="28" y="214" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-weight="600" font-size="25" fill="#15191B">AI agents and engineering tools that show their work.</text>
+<text x="28" y="246" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#5A6266">Agents that act under rules · physics-first models · evidence a judge can rerun.</text>
+
+<line x1="784" y1="52" x2="784" y2="262" stroke="#D5D9D6"/>
+
+  <g class="pin" style="animation-delay:0.25s">
+    <text x="808" y="92" class="mono" font-size="11" fill="#5A6266">P1</text>
+    <text x="838" y="92" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#15191B">ABB Accelerator Hackathon 2026</text>
+    <text x="838" y="111" class="mono" font-size="11.5" fill="#5A6266">of 1,600+ teams · ₹1,00,000</text>
+    <text x="1162" y="102" text-anchor="end" font-family="'Segoe UI Black', 'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="30" fill="#A9561F">3rd</text>
+    <line x1="808" y1="130" x2="1162" y2="130" stroke="#D5D9D6" stroke-dasharray="3 4"/>
+  </g>
+  <g class="pin" style="animation-delay:0.40s">
+    <text x="808" y="158" class="mono" font-size="11" fill="#5A6266">P2</text>
+    <text x="838" y="158" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#15191B">SEMICON India 2026 finale</text>
+    <text x="838" y="177" class="mono" font-size="11.5" fill="#5A6266">Applied Materials · New Delhi</text>
+    <text x="1162" y="168" text-anchor="end" font-family="'Segoe UI Black', 'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="30" fill="#15191B">Top 5</text>
+    <line x1="808" y1="196" x2="1162" y2="196" stroke="#D5D9D6" stroke-dasharray="3 4"/>
+  </g>
+  <g class="pin" style="animation-delay:0.55s">
+    <text x="808" y="224" class="mono" font-size="11" fill="#5A6266">P3</text>
+    <text x="838" y="224" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#15191B">Competition builds in 2026</text>
+    <text x="838" y="243" class="mono" font-size="11.5" fill="#5A6266">SIH · KONE · Mitsubishi · Freshworks</text>
+    <text x="1162" y="234" text-anchor="end" font-family="'Segoe UI Black', 'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="30" fill="#15191B">19</text>
+    
+  </g>
+
+<path class="trace" d="M0 312 H210 L238 290 H520 L548 312 H760 L784 300 H1200" fill="none" stroke="#A9561F" stroke-width="2.5"/>
+<g fill="#FFFFFF" stroke="#A9561F" stroke-width="2.5">
+  <circle cx="238" cy="290" r="5"/><circle cx="548" cy="312" r="5"/><circle cx="784" cy="300" r="5"/>
+</g>
+<circle r="4.5" fill="#A9561F">
+  <animateMotion dur="5s" begin="2.6s" repeatCount="indefinite" path="M0 312 H210 L238 290 H520 L548 312 H760 L784 300 H1200"/>
+</circle>
+</svg>

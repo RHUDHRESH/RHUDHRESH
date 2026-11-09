@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 190" width="580" height="190" role="img" aria-label="PlantLens: Read-only retrofit for factory machines: passive RS485, physics fingerprints and causal-graph fault explanations.">
+<rect x="0.5" y="0.5" width="579" height="189" fill="#FFFFFF" stroke="#D5D9D6"/>
+<rect x="1" y="1" width="4" height="188" fill="#A9561F"/>
+<text x="28" y="46" font-family="'Segoe UI Black', 'Arial Black', 'Helvetica Neue', Arial, sans-serif" font-weight="900" font-size="24" fill="#15191B">PlantLens</text>
+<rect x="338.1" y="27" width="219.89999999999998" height="24" fill="#F5F6F3" stroke="#D5D9D6"/>
+<text x="448.05" y="43" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="11.5" fill="#5A6266">Arduino Physical AI Challenge</text>
+<text x="28" y="86" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#15191B">Read-only retrofit for factory machines: passive RS485, physics</text><text x="28" y="107" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14.5" fill="#15191B">fingerprints and causal-graph fault explanations.</text>
+<rect x="22" y="148" width="536" height="26" fill="#F3E4D8"/>
+<text x="32" y="165" font-family="ui-monospace, 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12" fill="#15191B">runs on Arduino UNO Q · offline</text>
+</svg>
